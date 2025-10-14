@@ -1,0 +1,47 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+bzip2=1.0.8=hd037594_8
+ca-certificates=2025.10.5=hbd8a1cb_0
+certifi=2025.10.5=pypi_0
+charset-normalizer=3.4.4=pypi_0
+filelock=3.20.0=pypi_0
+fsspec=2025.9.0=pypi_0
+hf-xet=1.1.10=pypi_0
+huggingface-hub=0.35.3=pypi_0
+idna=3.11=pypi_0
+jinja2=3.1.6=pypi_0
+libexpat=2.7.1=hec049ff_0
+libffi=3.4.6=h1da3d7d_1
+liblzma=5.8.1=h39f12f2_2
+libmpdec=4.0.0=h5505292_0
+libsqlite=3.50.4=hf8de324_0
+libzlib=1.3.1=h8359307_2
+markupsafe=3.0.3=pypi_0
+mpmath=1.3.0=pypi_0
+ncurses=6.5=h5e97a16_3
+networkx=3.5=pypi_0
+numpy=2.3.3=pypi_0
+openssl=3.5.4=h5503f6c_0
+packaging=25.0=pypi_0
+pillow=11.3.0=pypi_0
+pip=25.2=pyh145f28c_0
+python=3.13.8=h09175d0_101_cp313
+python_abi=3.13=8_cp313
+pyyaml=6.0.3=pypi_0
+readline=8.2=h1d1bf99_2
+regex=2025.9.18=pypi_0
+requests=2.32.5=pypi_0
+safetensors=0.6.2=pypi_0
+setuptools=80.9.0=pypi_0
+sympy=1.14.0=pypi_0
+tk=8.6.13=h892fb3f_2
+tokenizers=0.22.1=pypi_0
+torch=2.8.0=pypi_0
+torchvision=0.23.0=pypi_0
+tqdm=4.67.1=pypi_0
+transformers=4.57.0=pypi_0
+typing-extensions=4.15.0=pypi_0
+tzdata=2025b=h78e105d_0
+urllib3=2.5.0=pypi_0
+zstd=1.5.7=h6491c7d_2
